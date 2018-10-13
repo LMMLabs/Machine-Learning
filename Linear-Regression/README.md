@@ -1,1 +1,3 @@
-#This folder will contain a working version of a linear regression algorithm.  You can replace the exising csv file and modify the code to meat your needs.
+# Simple Linear Regression
+
+This folder will contain a working version of a linear regression algorithm.  You can replace the exising csv file and modify the code to meat your needs.
